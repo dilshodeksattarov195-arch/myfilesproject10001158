@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercarse",
+        "uuid": 6225408,
+        "checksum": "oabpcr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
